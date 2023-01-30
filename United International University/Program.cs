@@ -10,6 +10,7 @@ namespace United_International_University
         {
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
+            //Github woring
             ApplicationConfiguration.Initialize();
             Application.Run(new Departments());
         }
